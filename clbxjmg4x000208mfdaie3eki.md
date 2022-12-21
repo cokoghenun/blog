@@ -1,4 +1,4 @@
-# Project Gigabit: Upgrading My Home Network To 2.5 Gigabits
+# Project Gigabit: Upgrading My Home Network Bandwidth To 2.5 Gigabits
 
 I have been playing with smart home automation for a couple of months now, and it’s been a fun project. To run a home-automation platform, you need to have a local network, and whether you realize it or not, you already have a local network (i.e, devices connected to WiFi). Your local network coordinates traffic like the request to fetch this blog page and sends the page data to the requesting device.
 
